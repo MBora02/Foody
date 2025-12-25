@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="Foody.BusinessLayer/Foody.BusinessLayer.csproj" Id="ed30ef1e-f7b1-4e63-8475-2a1cac41bb3a" />
+  <Project Path="Foody.DataAccessLayer/Foody.DataAccessLayer.csproj" Id="5aa2a29e-1a9c-4afa-adb9-e27cc18088cf" />
   <Project Path="Foody.EntityLayer/Foody.EntityLayer.csproj" Id="dc1e0c2e-94af-48be-b0ad-19aa0258297e" />
+  <Project Path="Foody.PresentationLayer/Foody.PresentationLayer.csproj" Id="bcfaace2-cc4e-4877-ad40-b73d7181f81d" />
 </Solution>
